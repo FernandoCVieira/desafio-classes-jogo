@@ -1,0 +1,36 @@
+/* estilo.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ddd;
+    font-family: "Helvetica Neue";
+    line-height: 1.5;
+}
+
+header {
+    background-color: #eee;
+    border: 2px solid gray;
+    border-radius: 10px;    
+}
+
+img {
+    float: left; 
+    height: 300px; 
+    width: 300px;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+h1 {
+    color: #555;
+}
+
+.saidaFinal {
+    font-size: 20px;
+    font-style: italic;
+}
